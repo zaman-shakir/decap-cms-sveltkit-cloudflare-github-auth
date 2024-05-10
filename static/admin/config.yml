@@ -1,0 +1,7 @@
+backend:
+  name: github
+  repo: github_username/repo_name
+  branch: branch_name # Branch to update (optional; defaults to master)
+  base_url: your_site_url
+  auth_endpoint: /api/auth
+
